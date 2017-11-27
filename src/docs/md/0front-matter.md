@@ -1,6 +1,6 @@
 ---
 template: front-matter.pug
-title: Front-end Performance
+title: Performance Tutorials
 author: ''
 productmanager: Simon Mackie
 englisheditor: Ralph Mason

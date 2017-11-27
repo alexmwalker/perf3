@@ -6,7 +6,7 @@ In the end, this works best. We have 'book-head.html' and 'book-foot.html' that 
 
 The very end of the commend has your output file. Something like `..lastinputfile.html > ../output/book.html`
 
-> cat book-head.html cover.html 0front-matter.html 1OptimizeMySQL.html 2BigFilesPHP.html 3WordPressOptimization.html 4OptimizeSQLQueries.html 5HTTP2.html 6ApachevsNginx.html 7Blackfire.html 8Varnish.html 9ServerLogs.html 10Siege.html book-foot.html > ../output/book.html
+> cat book-head.html cover.html 0front-matter.html book-foot.html > ../output/book.html
 
 ### This CSS SHOULD be in the 'book-head.html' file. Check it is.
 
